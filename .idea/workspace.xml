@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Labirynth:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="debc42af-67db-437c-9bf3-ae755362ef22" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="189" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d2dWQ0YrW30EztMzIEbqm8G0TS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Labirynth" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="debc42af-67db-437c-9bf3-ae755362ef22" name="Default Changelist" comment="" />
+      <created>1591627152313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591627152313</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="104" key="FileChooserDialogImpl" timestamp="1619543098467">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="104" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1619543098467" />
+    <state width="1316" height="174" key="GridCell.Tab.0.bottom" timestamp="1619543753395">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="174" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1619543753395" />
+    <state width="1316" height="174" key="GridCell.Tab.0.center" timestamp="1619543753394">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="174" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1619543753394" />
+    <state width="1316" height="174" key="GridCell.Tab.0.left" timestamp="1619543753394">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="174" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1619543753394" />
+    <state width="1316" height="174" key="GridCell.Tab.0.right" timestamp="1619543753395">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="174" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1619543753395" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Labirynth$Main.ic" NAME="Main Coverage Results" MODIFIED="1591782526317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
